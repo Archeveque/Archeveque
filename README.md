@@ -1,10 +1,7 @@
 ## Présentation / Introduction
 
 Je m'appelle Valentin DA SILVA JACARIAS. 
-Je suis actuellement en formation pour devenir dévelloppeur web.  
-
-&nbsp
-
+Je suis actuellement en formation pour devenir dévelloppeur web.   
 My name is Valentin DA SILVA JACARIAS.
 I am currently training to become a web developer.
 
