@@ -17,6 +17,11 @@ I am currently training to become a web developer.
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Node--Red-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
 ![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+##Portfolio
+-https://bardic-reveries-fly.fly.dev/
+-https://inazuma-tcg-77b4ac078c0e.herokuapp.com/
+
 ## 🔗 Liens / links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentin-da-silva-jacarias-44b092252//)
 
